@@ -1,0 +1,21 @@
+{
+  "name": "com.baza.ads.applovin",
+  "displayName": "Baza Ads Applovin",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Applovin mediation",
+  "dependencies": {
+    "com.baza.ads.core" : "file:../com.baza.ads.core"
+  },
+  "author": {
+    "name": "BazaGames",
+    "url": "https://bazagames.com"
+  },
+  "samples": [
+    {
+      "displayName": "Getting Started",
+      "description": "Basic usage sample.",
+      "path": "Samples~/GettingStarted"
+    }
+  ]
+}

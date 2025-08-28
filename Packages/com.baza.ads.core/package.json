@@ -1,0 +1,21 @@
+{
+  "name": "com.baza.ads.core",
+  "displayName": "Baza Ads Core",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Ads core",
+  "dependencies": {
+    
+  },
+  "author": {
+    "name": "BazaGames",
+    "url": "https://bazagames.com"
+  },
+  "samples": [
+    {
+      "displayName": "Getting Started",
+      "description": "Basic usage sample.",
+      "path": "Samples~/GettingStarted"
+    }
+  ]
+}
