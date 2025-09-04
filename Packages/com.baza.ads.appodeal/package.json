@@ -1,12 +1,13 @@
 {
-  "name": "com.baza.ads.core",
-  "displayName": "Baza Ads Core",
+  "name": "com.baza.ads.appodeal",
+  "displayName": "Baza Ads Appodeal",
   "version": "1.0.0",
   "unity": "6000.0",
-  "description": "Ads core",
-"dependencies": {
-    "com.cysharp.unitask": "2.5.0"
-},
+  "description": "Appodeal mediation",
+  "dependencies": {
+    "com.baza.ads.core" : "1.0.0",
+    "com.appodeal.mediation" : "3.9.0"
+  },
   "author": {
     "name": "BazaGames",
     "url": "https://bazagames.com"

@@ -1,8 +1,8 @@
 {
-    "name": "Baza.Ads.Core",
+    "name": "Baza.Ads.Applovin",
     "rootNamespace": "",
     "references": [
-        "UniTask"
+        "GUID:874a20a182b605946ac0d4de22b0c4c1"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

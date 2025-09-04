@@ -1,8 +1,8 @@
 {
-    "name": "Baza.Ads.Core",
+    "name": "Baza.Ads.Applovin.Editor",
     "rootNamespace": "",
     "references": [
-        "UniTask"
+        "Baza.Ads.Applovin"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

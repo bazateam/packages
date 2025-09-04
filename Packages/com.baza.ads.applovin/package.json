@@ -5,7 +5,7 @@
   "unity": "6000.0",
   "description": "Applovin mediation",
   "dependencies": {
-    "com.baza.ads.core" : "file:../com.baza.ads.core"
+    "com.baza.ads.core" : "com.baza.ads.core"
   },
   "author": {
     "name": "BazaGames",
